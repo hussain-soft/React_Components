@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.form-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 100px auto;
+}
+.img-div img {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+}
+.txt_field label {
+  font-size: 20px;
+}
